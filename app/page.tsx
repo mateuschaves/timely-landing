@@ -18,7 +18,7 @@ export default function Home() {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a
-                                href="#"
+                                href="https://apps.apple.com/br/app/timely-time-tracking/id6755915429?l=pt-BR"
                                 className="bg-black text-white px-8 py-3 rounded-lg font-semibold hover:bg-gray-800 transition-colors shadow-lg"
                             >
                                 Baixar Agora
@@ -154,7 +154,7 @@ export default function Home() {
                         com relatórios detalhados e cálculo automático do seu salário mensal
                     </p>
                     <a
-                        href="#"
+                        href="https://apps.apple.com/br/app/timely-time-tracking/id6755915429?l=pt-BR"
                         className="bg-white text-black px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors shadow-lg inline-block"
                     >
                         Baixar Agora

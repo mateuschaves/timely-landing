@@ -35,3 +35,4 @@ import Image from 'next/image'
 - Use nomes descritivos para os arquivos
 - Otimize as imagens antes de fazer upload (ferramentas como TinyPNG ou ImageOptim)
 - Mantenha proporções consistentes entre as imagens
+

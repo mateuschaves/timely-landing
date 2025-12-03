@@ -65,3 +65,4 @@ Este projeto pode ser facilmente deployado em plataformas como:
 - Netlify
 - AWS Amplify
 - Outras plataformas que suportam Next.js
+
